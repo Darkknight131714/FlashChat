@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "276178763576",
+    "project_id": "flash-chat-14286",
+    "storage_bucket": "flash-chat-14286.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276178763576:android:704677d81e8d0706c14bcd",
+        "android_client_info": {
+          "package_name": "co.Darkknight.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276178763576-0p6rfu1cenv9pqtagj5l2bqrmlck5gvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmwwsYCn9kK1ooY53zCIdc3kVU4rRIAfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276178763576-0p6rfu1cenv9pqtagj5l2bqrmlck5gvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
